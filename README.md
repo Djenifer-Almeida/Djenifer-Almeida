@@ -1,4 +1,4 @@
-<h3 align="left">------------------------------------<br>Hello, welcome to my profile! | <br>                 ✧ Djenifer Almeida ✧     |<br>------------------------------------</h3>
+<h3 align="left">------------------------------------<br>Hello, welcome to my profile!<br>                 ✧ Djenifer Almeida ✧ <br>------------------------------------</h3>
 
 ###
 
