@@ -1,8 +1,8 @@
-<h3 align="left">------------------------------------<br>Hello, welcome to my profile! <br>        ✧ Djenifer Almeida ✧<br>------------------------------------</h3>
+<h3 align="center">------------------------------------<br>Hello, welcome to my profile! <br>        ✧ Djenifer Almeida ✧<br>------------------------------------</h3>
 
 ###
 
-<h5 align="left">•  Every day, enhancing my knowledge even further.</h5>
+<h5 align="center">•  Every day, enhancing my knowledge even further.</h5>
 
 ###
 
