@@ -6,17 +6,17 @@
 
 ###
 
-<h1 align="left">🌠 _____________________________________</h1>
+<h1 align="left">🌠 _______________________________________________________</h1>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Djenifer-Almeida&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="134" alt="stats graph"  />   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Djenifer-Almeida&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="132" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Djenifer-Almeida&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="134" alt="stats graph"  />   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Djenifer-Almeida&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="133" alt="languages graph"  />
 </div>
 
 ###
 
-<h1 align="left">____________________________________ 🌠</h1>
+<h1 align="left">__________________________________________________________ 🌠</h1>
 
 ###
 
