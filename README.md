@@ -16,10 +16,6 @@
 
 ###
 
-<h1 align="left">__________________________________________________________ 🌠</h1>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" height="40" alt="ruby logo"  />
   <img width="12" />
