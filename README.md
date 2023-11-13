@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="center">•  Every day, enhancing my knowledge even further.</h4>
+<h4 align="center">• 🌠 Every day, enhancing my knowledge even further. 🌠 </h4>
 
 ###
 
-<h1 align="left">🌠 ______________________________________________________________</h1>
+<h5 align="left">🌠 _______________________________________________________________________________________________</h5>
 
 ###
 
