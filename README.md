@@ -1,8 +1,8 @@
-<h3 align="left">------------------------------------<br>Hello, welcome to my profile! <br>        ✧ Djenifer Almeida ✧<br>------------------------------------</h3>
+<h3 align="center">------------------------------------<br>Hello, welcome to my profile! <br>        ✧ Djenifer Almeida ✧<br>------------------------------------</h3>
 
 ###
 
-<h5 align="left">•  Every day, enhancing my knowledge even further.</h5>
+<h4 align="left">•  Every day, enhancing my knowledge even further.</h4>
 
 ###
 
@@ -11,8 +11,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Djenifer-Almeida&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="134" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Djenifer-Almeida&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="151" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Djenifer-Almeida&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="134" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Djenifer-Almeida&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=9&theme=discord_old_blurple&hide_border=false&order=2" height="151" alt="languages graph"  />
 </div>
 
 ###
