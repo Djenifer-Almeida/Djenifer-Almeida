@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">•  Every day, enhancing my knowledge even further.</h4>
+<h4 align="center">•  Every day, enhancing my knowledge even further.</h4>
 
 ###
 
